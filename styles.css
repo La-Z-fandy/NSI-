@@ -35,7 +35,8 @@
     width:600px;
     height:auto;
     /*background-color:#f3f3f3;*/
-    background-color: #11687f;
+    /*background-color: #11687f;*/
+    background-color: #ba934b;
     
 }
 .Cv .Left_section .Resume_content--left .Resume_content--left--items {
@@ -45,6 +46,7 @@
 .Left_section .Resume_content--left .data_name {
     font-size:34px;
     color:#B5AB8C;
+    /*color:#3c3c3c;*/
     
 
 }
@@ -52,7 +54,8 @@
     margin:10px 0 10px 90px  ;
     text-align:justify;
     font-size:20px;
-    color:#B5AB8C;
+    /*color:#B5AB8C;*/
+    color:#3c3c3c;
     font-size:x-large;
 }
 
@@ -68,7 +71,8 @@ hr {
     margin-top:5px;
     margin-bottom:10px;
     font-size: 27px;
-    color:#B5AB8C;
+    /*color:#B5AB8C;*/
+    color:#3c3c3c;
     text-align:center;
 }
 .Skills .Skills_items {
@@ -100,7 +104,8 @@ hr {
 .Work_E {
     margin-top:50px;
     /*color:#B5AB8C;*/
-    color:#f04b4c;
+    /*color:#f04b4c;*/
+    color:#ba934b;
 }
 .xp_container {
     display:flex;
@@ -131,5 +136,6 @@ hr {
     left:450px;
 }
 .job_title {
-    color:#9bc4d5;
+    /*color:#9bc4d5;*/
+    color:#ba934b;
 }
